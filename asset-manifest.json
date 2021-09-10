@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/To-do-reminder-React/static/css/main.5023db4e.chunk.css",
+    "main.js": "/To-do-reminder-React/static/js/main.54a73c38.chunk.js",
+    "main.js.map": "/To-do-reminder-React/static/js/main.54a73c38.chunk.js.map",
+    "runtime-main.js": "/To-do-reminder-React/static/js/runtime-main.95c0f412.js",
+    "runtime-main.js.map": "/To-do-reminder-React/static/js/runtime-main.95c0f412.js.map",
+    "static/css/2.8af9b51d.chunk.css": "/To-do-reminder-React/static/css/2.8af9b51d.chunk.css",
+    "static/js/2.557183a3.chunk.js": "/To-do-reminder-React/static/js/2.557183a3.chunk.js",
+    "static/js/2.557183a3.chunk.js.map": "/To-do-reminder-React/static/js/2.557183a3.chunk.js.map",
+    "index.html": "/To-do-reminder-React/index.html",
+    "static/css/2.8af9b51d.chunk.css.map": "/To-do-reminder-React/static/css/2.8af9b51d.chunk.css.map",
+    "static/css/main.5023db4e.chunk.css.map": "/To-do-reminder-React/static/css/main.5023db4e.chunk.css.map",
+    "static/js/2.557183a3.chunk.js.LICENSE.txt": "/To-do-reminder-React/static/js/2.557183a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95c0f412.js",
+    "static/css/2.8af9b51d.chunk.css",
+    "static/js/2.557183a3.chunk.js",
+    "static/css/main.5023db4e.chunk.css",
+    "static/js/main.54a73c38.chunk.js"
+  ]
+}
